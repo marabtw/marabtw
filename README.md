@@ -1,4 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marlen Jaxylyk======================================================================================================================================Web developer-------------I love code* 🌍  I'm based in Almaty* ✉️  You can contact me at [marmysticscribe@gmail.com](mailto:marmysticscribe@gmail.com)* 🧠  I'm learning JS, TS, React, Vite, Node.js, Tailwind* 🤝  I'm open to collaborating on interesting projects
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marlen Jaxylyk
+======================================================================================================================================
+Web developer
+-------------
+I love code
+
+* 🌍  I'm based in Almaty
+* ✉️  You can contact me at [marmysticscribe@gmail.com](mailto:marmysticscribe@gmail.com)
+* 🧠  I'm learning JS, TS, React, Vite, Node.js, Tailwind
+* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 

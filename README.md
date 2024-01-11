@@ -1,15 +1,12 @@
-<div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
-    <h1>HI</h1>
-    <img style = "width: 40px; height: 40px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Привет" />
-    <h1>I'm Marlen Jaxylyk</h1>
-</div>
+
+<h1 align="center">HI
+<img style = "width: 40px; height: 40px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Привет" />
+I'm Marlen Jaxylyk
+</h1>
+
 <hr style="width: 100%; margin: 0 auto; background: rgba(255, 255, 255, 0.5);">
-
-<div align = "center" style = "font-size: 36px; font-weight: 600;margin-top: 20px">Web developer</div>
+<h2 align = "center">Web developer</h2>
 <div style="width: 50%; margin: 0 auto; border: 1px solid rgba(255, 255, 255, 0.5);"></div>
-
-
-I love code
 
 * 🌍  I'm based in Almaty
 * ✉️  You can contact me at [marmysticscribe@gmail.com](mailto:marmysticscribe@gmail.com)
@@ -17,7 +14,7 @@ I love code
 
 
 <hr style="width: 100%; margin: 0 auto; background: rgba(255, 255, 255, 0.5);">
-<div align="center" style="font-size: 30px; margin-top: 20px">Skills</div>
+<h2 align="center">Skills</h2>
 <div style="width: 50%; margin: 0 auto; border: 1px solid rgba(255, 255, 255, 0.5);"></div>
 
 <div align="center">
@@ -49,7 +46,7 @@ I love code
 </div>
 
 <hr style="width: 100%; margin: 0 auto; background: rgba(255, 255, 255, 0.5);">
-<div align = "center" style = "font-size: 30px; margin-top: 20px">Badges</div>
+<h2 align = "center">Badges</2>
 <div style="width: 50%; margin: 0 auto; border: 1px solid rgba(255, 255, 255, 0.5);"></div>
 
 <h3 align = "center">My GitHub Stats</h3>

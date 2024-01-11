@@ -1,14 +1,3 @@
-<style>
- @media only screen and (max-width: 768px) {
-    #github-stats {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
-  }
-</style>
-
-
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
     <h1>HI</h1>
     <img style = "width: 40px; height: 40px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Привет" />
@@ -48,7 +37,6 @@ I love code
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
         <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-        <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
         <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
         <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
     </p>
@@ -61,29 +49,23 @@ I love code
 </div>
 
 <hr style="width: 100%; margin: 0 auto; background: rgba(255, 255, 255, 0.5);">
-
-
-
 <div align = "center" style = "font-size: 30px; margin-top: 20px">Badges</div>
 <div style="width: 50%; margin: 0 auto; border: 1px solid rgba(255, 255, 255, 0.5);"></div>
-<h3 align = "center">My GitHub Stats</h3>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; align-items: center; justify-content: center;" id="github-stats">
+<h3 align = "center">My GitHub Stats</h3>
+<div align="center">
     <a href="http://www.github.com/marabtw">
-        <img src="https://github-readme-stats.vercel.app/api?username=marabtw&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=f97316&icon_color=facc15&bg_color=171717&hide_border=true&show_icons=true" alt="marabtw's GitHub stats" style="width: auto; height: auto;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=marabtw&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=f97316&icon_color=facc15&bg_color=171717&hide_border=true&show_icons=true" alt="marabtw's GitHub stats"/>
     </a>
     <a href="https://github.com/marabtw">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marabtw&langs_count=10&title_color=a855f7&text_color=f97316&icon_color=facc15&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" style="width: auto; height: auto;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marabtw&langs_count=10&title_color=a855f7&text_color=f97316&icon_color=facc15&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/>
     </a>
-    <div style="grid-column: span 2; text-align: center;">
-        <a href="http://www.github.com/marabtw">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=marabtw&stroke=f97316&background=171717&ring=a855f7&fire=a855f7&currStreakNum=f97316&currStreakLabel=a855f7&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" style="width: auto; height: auto;" />
-        </a>
-    </div>
+    <a href="http://www.github.com/marabtw">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=marabtw&stroke=f97316&background=171717&ring=a855f7&fire=a855f7&currStreakNum=f97316&currStreakLabel=a855f7&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true"/>
+    </a>
 </div>
 
 <div style="width: 50%; margin: 20px auto 0 auto; border: 1px solid rgba(255, 255, 255, 0.5);"></div>
-
 
 <p align="center" style="padding: 20px 0"> 
     <a style="margin-right: 10px" href="https://t.me/Pukl_l" target="_blank" rel="noreferrer"> 

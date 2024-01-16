@@ -10,7 +10,6 @@ I'm Marlen Jaxylyk
 
 * 🌍  I'm based in Almaty
 * ✉️  You can contact me at [marmysticscribe@gmail.com](mailto:marmysticscribe@gmail.com)
-* 🧠  Now I'm learning React, TS, Tailwind, Next.js
 
 
 <hr style="width: 100%; margin: 0 auto; background: rgba(255, 255, 255, 0.5);">

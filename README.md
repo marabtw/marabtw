@@ -8,7 +8,7 @@ I'm Marlen Jaxylyk
 <h2 align = "center">Web developer</h2>
 <div style="width: 50%; margin: 0 auto; border: 1px solid rgba(255, 255, 255, 0.5);"></div>
 
-* 🌍  I'm based in Almaty
+* 🌍  I'm in Almaty
 * ✉️  You can contact me at [marmysticscribe@gmail.com](mailto:marmysticscribe@gmail.com)
 
 
